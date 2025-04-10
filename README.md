@@ -32,5 +32,3 @@ Loaded from an Excel/CSV file containing:
 
 👨‍💻 **Tools**: MySQL Workbench, Excel (for data cleaning), GitHub
 
-📂 This project is ideal for Junior Analyst portfolios and demonstrates strong SQL analytics and business-thinking capabilities.
-
